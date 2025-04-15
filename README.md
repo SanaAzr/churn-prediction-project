@@ -11,8 +11,6 @@ This project is a solution to a Data Science challenge from Coursera focused on 
   The data consists of customer subscription records with features such as account age, monthly charges, total charges, subscription type, payment method, usage metrics, and more.
 
 - **Methodology:**
-  - **Exploratory Data Analysis (EDA):**  
-    Examined data distributions, missing values, and outliers.
   - **Data Preprocessing:**
     - Separated numerical and categorical features.
     - Standardized numerical features using `StandardScaler`.
